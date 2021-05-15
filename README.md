@@ -1,2 +1,3 @@
-# first-order-image-animation
+# First order image animation model
+
 Creating deepfakes
